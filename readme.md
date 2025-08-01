@@ -37,8 +37,8 @@ Developed an offline Text-to-Speech (TTS) tool using Python that converts typed 
 ## 📁 Project Structure
 
 offline-tts/
-├── gui_app.py # Main GUI application
-├── main.py # Optional CLI version
-├── Screenshot (11).png # Screenshot for README
-├── requirements.txt # Dependencies list
+├── gui_app.py # Main GUI application<br>
+├── main.py # Optional CLI version<br>
+├── Screenshot (11).png # Screenshot for README<br>
+├── requirements.txt # Dependencies list<br>
 └── README.md # Project documentation
